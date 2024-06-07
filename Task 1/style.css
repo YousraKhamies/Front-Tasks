@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(154, 121, 184);
+}
+label{
+    color: #c2a5a5;
+}
+div{
+  width: 400px; background-color: rgb(118, 79, 155);
+}
+
+#first{
+    background-color: rgb(62, 41, 83);
+}

@@ -1,0 +1,61 @@
+ .first{
+    width: 100px;
+    height:3px;
+    background-color: rgb(163, 163, 139);
+    margin:auto ;
+}
+h1{
+    text-align: center;
+}
+h3{
+    font-size: 25px;
+}
+body{
+    background-color:rgb(154, 182, 182);
+}
+.parent{
+    overflow: auto;
+}
+.second{
+width: 200px;
+height: 330px;
+background-color:rgb(132, 170, 170);
+border-radius: 5px;
+float: left;
+margin-top: 100px;
+margin-left: 400px;
+text-align: center;
+}
+.third{
+    width: 200px;
+    height: 330px;
+    background-color:rgb(132, 170, 170) ;
+    border-radius: 5px;
+    float: left;
+   margin-left: 50px;
+   margin-top: auto;
+   margin-top: 100px;
+   text-align: center;
+}
+.fourth{
+    width: 200px;
+    height: 330px;
+    background-color:rgb(132, 170, 170);
+    border-radius: 5px;
+   float: left;
+   margin-left:50px ;
+   margin-top: 100px;
+   text-align: center;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    border: 3px solid white;
+    border-radius: 50%;
+    margin: auto;
+}
+button{
+    background-color: rgb(132, 170, 170);;
+    width: 100px;
+    border: 3px solid white;
+}

@@ -1,0 +1,80 @@
+ body
+{
+   position: relative;
+   background-image: url(../images/c0a1a698257f0f5f8277ce16415e92b1.jpg);
+   background-repeat: no-repeat;
+   background-size: 1500px 800px;
+}
+button
+{
+    width: 150px;
+    height: 30px;
+    margin-top: 50px;
+    padding-left: 20px;
+    border-radius: 5px;
+    background-color: rgb(119, 133, 153);
+}
+#register{
+    padding-left: 20px;
+}
+button:hover{
+    background-color: rgb(152, 97, 149);
+}
+
+td,#name{
+    padding-top: 20px;
+}
+#name{
+    padding-left: 10px;
+    margin-top: 10px;
+}
+td{
+    padding-left: 20px;
+}
+form
+{
+    background-color:rgb(154, 135, 154);
+    opacity: 0.8; 
+    width: 650px;
+    height: 650px;
+    margin-left: 400px;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.registration{
+    font-size: 30px;
+    text-align: center;
+    width: 650px;
+    height: 40px;
+    background-color:rgb(116, 103, 116);
+    border-radius:5px ;
+}
+/*
+.name1,.email1,.company1,.phone1,.departments1,.beginner1,.beginner2,.beginner3,#register{
+    margin-left: 40px;
+}
+#fname,#lname,#Email,#fpart,#spart,#fcompany,#gender2,#gender1,#register,#departments1{
+  margin-left: 2em;
+  padding: .5em;
+  margin-bottom: .5em;
+  margin-top: 2em;
+}
+#fname,#lname,#Email,#fpart,#spart,#fcompany,#gender2,#gender1,#departments1{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#Departments{
+   width: 150px;
+   margin-left: 6em;
+}
+ #departments{
+    padding-left: 100px;
+ }
+#row,#register,#Departments{
+    display: flex;
+   justify-content: flex-end;
+   position: absolute;
+}
+*/ 
